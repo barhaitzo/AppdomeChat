@@ -1,0 +1,13 @@
+httpx
+beautifulsoup4
+markdownify
+python-slugify
+faiss-cpu
+numpy
+sentence-transformers
+langchain_text_splitters
+ollama
+torch
+tqdm
+pytest
+pytest-asyncio
